@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-feign-upload-client/eureka-feign-upload-client.iml" filepath="$PROJECT_DIR$/eureka-feign-upload-client/eureka-feign-upload-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-feign-upload-server/eureka-feign-upload-server.iml" filepath="$PROJECT_DIR$/eureka-feign-upload-server/eureka-feign-upload-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider-ticket/provider-ticket.iml" filepath="$PROJECT_DIR$/provider-ticket/provider-ticket.iml" />
     </modules>
   </component>
